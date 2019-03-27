@@ -3,3 +3,8 @@ body {
   background-repeat: repeat;
   color: #FFFFFF;
 }
+
+a:hover { color:#ffffff; background-color:#000000; }
+a:link { color:#000000; background-color:#ffffff; }
+a {font-size: 60px}
+
